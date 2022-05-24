@@ -1,2 +1,10 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1653348648242" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1653348648242" name\="jdk-17.0.2" path\="C\:\\Program Files\\Java\\jdk-17.0.2"/>\r\n    </vmType>\r\n</vmSettings>\r\n
+=======
+<<<<<<< HEAD
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1653348648242">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1653348648242" name\="jdk-17.0.2" path\="C\:\\Program Files\\Java\\jdk-17.0.2"/>\r\n    </vmType>\r\n</vmSettings>\r\n
+=======
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1653348648242">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1653348648242" javadocURL\="https\://docs.oracle.com/en/java/javase/17/docs/api/" name\="jdk-17.0.2" path\="C\:\\Program Files\\Java\\jdk-17.0.2"/>\r\n    </vmType>\r\n</vmSettings>\r\n
+>>>>>>> bbb51ed32a396d832c8555d08ea8c872eaf23e17
+>>>>>>> 65b7e797a2d3271524f3001b2b9597a8f64607a9

@@ -1,4 +1,4 @@
 
-public class SingleMembers {
+public class SingleMembers extends MemberDetails {
 
 }
