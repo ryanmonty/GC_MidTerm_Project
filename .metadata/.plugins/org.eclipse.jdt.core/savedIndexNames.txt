@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Megan\Documents\Classes\JavaBootCamp\Weeks\Week9\GC_MidTerm_Project\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-760091825.index
