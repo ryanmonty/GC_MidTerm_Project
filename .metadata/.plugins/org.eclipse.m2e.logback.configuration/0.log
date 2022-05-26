@@ -21,3 +21,6 @@ java.io.FileNotFoundException: C:\Users\Ryan\Desktop\AMAZON BC\MidTerm Project\.
 2022-05-23 21:34:26,679 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 =======
 >>>>>>> bbb51ed32a396d832c8555d08ea8c872eaf23e17
+2022-05-23 21:40:19,895 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-26 14:03:31,603 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-26 14:19:40,003 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
