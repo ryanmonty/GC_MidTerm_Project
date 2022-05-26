@@ -30,3 +30,4 @@ java.io.FileNotFoundException: C:\Users\Ryan\Desktop\AMAZON BC\MidTerm Project\.
 =======
 >>>>>>> bbb51ed32a396d832c8555d08ea8c872eaf23e17
 >>>>>>> 65b7e797a2d3271524f3001b2b9597a8f64607a9
+2022-05-25 17:14:27,754 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
