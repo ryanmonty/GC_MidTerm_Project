@@ -1,0 +1,10 @@
+
+public class SingleMembers extends MemberDetails {
+
+	@Override
+	public void checkIn(Club club) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
