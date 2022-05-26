@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-<<<<<<< HEAD
-	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
-		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-		</list>
-	</section>
 	<section name="ImportExportAction">
 	</section>
-=======
->>>>>>> bbb51ed32a396d832c8555d08ea8c872eaf23e17
 </section>

@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Ryan\Desktop\AMAZON BC\MidTerm Project\MidTerm"/>
 			<item value="C:\Users\aj_ab\OneDrive\Desktop\Midterm\GC_MidTerm_Project"/>
 		</list>
 	</section>

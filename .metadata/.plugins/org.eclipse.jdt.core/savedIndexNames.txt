@@ -1,6 +1,4 @@
 INDEX VERSION 1.131+C:\Users\Ryan\Desktop\AMAZON BC\MidTerm Project\.metadata\.plugins\org.eclipse.jdt.core
-<<<<<<< HEAD
-=======
 760091825.index
->>>>>>> bbb51ed32a396d832c8555d08ea8c872eaf23e17
+625423849.index
 1865797976.index
