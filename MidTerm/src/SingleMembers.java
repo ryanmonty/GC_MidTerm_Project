@@ -23,6 +23,7 @@ public class SingleMembers extends MemberDetails {
 	            this.getClubName().compareTo(club.getName());
 	        } catch (Exception e) {
 	            e.printStackTrace();
+	            System.out.println("This member does not belong to this club");
 	        }		
 	}
 
