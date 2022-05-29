@@ -3,5 +3,9 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="MidTerm/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+<<<<<<< HEAD
+	<classpathentry kind="output" path="MidTerm/src"/>
+=======
 	<classpathentry kind="output" path="bin"/>
+>>>>>>> 3b1296db2cfe0f9d586a7c7e41e03b5d997dc94f
 </classpath>
