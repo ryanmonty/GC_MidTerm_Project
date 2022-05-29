@@ -1,22 +1,2 @@
-<<<<<<< HEAD
 INDEX VERSION 1.131+C:\Users\Ryan\Desktop\AMAZON BC\MidTerm Project\.metadata\.plugins\org.eclipse.jdt.core
-=======
-<<<<<<< HEAD
-INDEX VERSION 1.131+C:\Users\Ryan\Desktop\AMAZON BC\MidTerm Project\.metadata\.plugins\org.eclipse.jdt.core
-760091825.index
-=======
-INDEX VERSION 1.131+C:\Users\Megan\Documents\Classes\JavaBootCamp\Weeks\Week9\GC_MidTerm_Project\.metadata\.plugins\org.eclipse.jdt.core
-1304163255.index
-3373694209.index
-2197813017.index
-760091825.index
-2250025643.index
-910228912.index
-2340762857.index
-1053905028.index
-2729128180.index
->>>>>>> 8e269893b903899aa0a62befd3ce7bb22fc84356
-625423849.index
->>>>>>> 82ea0406458c2ef64de78a1a836346cdd0bab6f6
 1865797976.index
-625423849.index
