@@ -66,30 +66,31 @@ public class MemberApp {
 
 					if (member.getId() == memId) {
 						System.out.println(member.toString());
-						
-						System.out.println("Please select an option: \n1. Check Member In\n2. Current Balance\n3. Cancel Membership");
+
+						System.out.println(
+								"Please select an option: \n1. Check Member In\n2. Current Balance\n3. Cancel Membership");
 						int choice = scan2.nextInt();
-						
-					switch(choice) {
-					case 1:
-						
-						if(member instanceof SingleMembers) {
+
+						switch (choice) {
+						case 1:
 							String homeClubChoice = getUserInput("What is the name of their Home club?"
 									+ "\n1. DownTownFit\n2. FitnessThisWholeBurgerInMyMouth\n3. UpTownFit\n4. CornerTownFit",
 									scan);
-							member.checkIn(clubs[Integer.parseInt(homeClubChoice) - 1]);
-							System.out.println("Welcome " + member.getName() + " to " + clubs[Integer.parseInt(homeClubChoice) - 1].getName());
-						}
-						else {
-							member.checkIn(null);
-							System.out.println("Be sure to tell " + member.getName() + " about their 5 new membership points!");
+							if (member instanceof SingleMembers) {
+								try {
+									member.checkIn(clubs[Integer.parseInt(homeClubChoice) - 1]);
+								} catch (ArrayIndexOutOfBoundsException e) {
+									System.out.println("Please select from one of the existing clubs");
+								}
+							} else {
+								member.checkIn(null);
+								System.out.println("Be sure to tell " + member.getName()
+										+ " about their 5 new membership points!");
+							}
 						}
 					}
+
 				}
-				
-					
-					
-				}	
 			} else {
 				willContinue = false;
 			}
@@ -100,10 +101,12 @@ public class MemberApp {
 			} else {
 				willContinue = false;
 			}
-		}while(willContinue);scan.nextLine();System.out.println("Goodbye!");
+		} while (willContinue);
+		scan.nextLine();
+		System.out.println("Goodbye!");
 
 	}
-
+	
 	private static String getUserInput(String prompt, Scanner scan) {
 		System.out.println(prompt);
 		return scan.nextLine();
